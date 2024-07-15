@@ -10,7 +10,9 @@ I created this script because I hate running each Git command manually.
 ## Features
 - Automatically initializes a project if it's not already a Git repository.
 - Pushes changes to the main branch.
-- Saves configuration, so you only need to input the origin and remote repository once. After that, just write the commit message, and the script handles the rest.
+- Saves configuration on project directory, so you only need to input the origin and remote repository once. After that, just write the commit message, and the script handles the rest.
+- Written in PowerShell script, so you don’t have to install other packages—just have Git installed on your system.
+- Lightweight, with a size of only 4KB.
 
 ## Usage
 1. Clone this repository or download the raw script.
